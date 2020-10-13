@@ -25,6 +25,8 @@ namespace CourseworkTri3
             InitializeComponent();
 
             MessageBox.Show("Hello World");
+            MessageBox.Show("Hello Sacha");
+            MessageBox.Show("Hello Craig");
         }
     }
 }
