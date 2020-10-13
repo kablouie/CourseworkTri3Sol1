@@ -23,6 +23,8 @@ namespace CourseworkTri3
         public MainWindow()
         {
             InitializeComponent();
+
+            MessageBox.Show("Hello World");
         }
     }
 }
